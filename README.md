@@ -1,4 +1,4 @@
-# Hi 🥳 I'm Astral-Cyber.
+# Hi 🥳 I'm Astral-Yang.
 
 #### 💻 Github Status
 <a href="https://github.com/Astral-Yang">
@@ -7,4 +7,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astral-Yang&theme=buefy&layout=compact" />
 </a>
 
-![](https://raw.githubusercontent.com/Astral-Cyber/Astral-Yang/output/github-contribution-grid-snake.svg)              
+![](https://raw.githubusercontent.com/Astral-Yang/Astral-Yang/output/github-contribution-grid-snake.svg)              
