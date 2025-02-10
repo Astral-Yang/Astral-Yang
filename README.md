@@ -1,6 +1,6 @@
 # Hi 🥳 I'm Astral-Yang.
 
-#### 💻 Github Status
+## 💻 Github Status
 <a href="https://github.com/Astral-Yang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astral-Yang&theme=buefy&show_icons=true" />
  
