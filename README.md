@@ -2,9 +2,8 @@
 
 ## 💻 Github Status
 <a href="https://github.com/Astral-Yang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astral-Yang&theme=buefy&show_icons=true" />
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astral-Yang&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Astral-Yang&langs_count=4" alt="Astral-Yang's Top Languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Astral-Yang" alt="Astral-Yang's GitHub Stats"/>
 </a>
 
 ![](https://raw.githubusercontent.com/Astral-Yang/Astral-Yang/main/dist/github-snake.svg)              
